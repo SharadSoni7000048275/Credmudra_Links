@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T14:55:56 IST" name="Default suite" finished-at="2024-08-06T14:57:23 IST" duration-ms="86834">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T14:55:56 IST" name="Default test" finished-at="2024-08-06T14:57:23 IST" duration-ms="86834">
+      <class name="Links_Cred.Credmudra.TESTnew1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:55:56 IST" name="setUp" finished-at="2024-08-06T14:56:00 IST" duration-ms="3515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:00 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:32 IST" duration-ms="32193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://web.cashe.co.in/VjcvdkZ0b0ZFVDZDMlFGOE1LQzRmTlo0WmRDRUpDdHErcm5IUytZWWgwVXluczY5aUpBYnp3bEFrb3FVNGM5V0w2SHBwUDNhekhBbnZWY2wyVkx3N2RuS2ZTVW5ZSFZ5K3pIWkRlOFhzaW5yNjJiZkRLVHNwd3VsK2NrMFh1ZE4=]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:32 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:36 IST" duration-ms="4359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://web.mpokket.in/?utm_source=credmudra&utm_medium=sms]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:36 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:38 IST" duration-ms="1783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://portal.fibe.in/es-landing?sso=IVEwwA18wi6ZNms20240710091308]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:38 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:42 IST" duration-ms="3437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://kredt.be/home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:42 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:46 IST" duration-ms="4454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://web.moneytap.com/?utm_source=mpx_credmudra&utm_medium=Multi&utm_campaign=Pilot1&utm_content=CL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:46 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:47 IST" duration-ms="1250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://core.gopaysense.com/v1/external/perfios/pre_start?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtaWQiOjMwNDU0NjM3LCJ2ZW5kb3IiOnRydWUsImV4cGlyZV90cyI6MTcyMDYzNzA2Mi42NDQ5MjcsInBhcnRuZXJfc2VjcmV0X2tleSI6ImVMLVp1VjlZUWQ3aTNxRC0xM2pnMTFzemphRDJJUHRaIn0.mXTvmupbbQUbxLihODZxjGAwG0yQ0oq0ZNe0Ofqw6uE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:47 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:50 IST" duration-ms="2662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lendingkart.com/dashboard/auth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:50 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:51 IST" duration-ms="957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://loantap.in/apply/home/APP1781798345140763]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:51 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:52 IST" duration-ms="704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://moneyview.in/apply-loan/utility/autologin?utm_source=MV_Partners&utm_medium=autologin&utm_campaign=credmudra&autologin_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyYzlmYThlMThjZWM0YjhlMDE4Y2VmN2E0MDkzMmQ2NyIsImxvYW5BcHBJZCI6ImZmODA4MDgxOTA5NzNhZDEwMTkwOWEyZTQ0MDE1MTg5IiwiaXNzIjoiUFdBIiwiZXhwIjoxNzIwNjYwMDYyLCJpYXQiOjE3MjA1NzM2NjIsInVzZXJJZCI6IjJjOWZhOGUxOGNlYzRiOGUwMThjZWY3YTQwOTMyZDY3In0._jQwyORT38XhBdDBmraIGi6HiNKjh2hOJfaNUj1xHgs&user_category=C]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:52 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:54 IST" duration-ms="2198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zype.sng.link/Djygt/xphp?paffid=]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:54 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:56 IST" duration-ms="2269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.faircent.in/user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:56 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:57 IST" duration-ms="1083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://play.google.com/store/apps/details?id=com.incred.customer&hl=en_IN&gl=IN]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:57 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:56:59 IST" duration-ms="1287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://app.upwards.in/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:56:59 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:01 IST" duration-ms="2047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://client.indifi.com/instant-loan/application/2d613b36-b3a5-4537-86c9-ad07d93ca5cd?anchor_name=Credmudra&app_id=8545858&applicationId=2d613b36-b3a5-4537-86c9-ad07d93ca5cd&access_token=4d36930fbf7cf7e0a2dd9f9ac952b1641fcc07e0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:01 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:01 IST" duration-ms="822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://dbl.protium.co.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:01 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:03 IST" duration-ms="1768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://privo.onelink.me/eIVI/CredMudra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:03 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:08 IST" duration-ms="4736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://web.fatakpay.com/authentication/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:08 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:10 IST" duration-ms="1821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://smartcoin.onelink.me/KLIY/Credmudramarketing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:10 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:11 IST" duration-ms="1136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://marketplace.creditvidya.com/credmudra?authToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0ZW5hbnRJZCI6IjQ4NSIsImN2VXNlciI6IjY2MDk0Mzg3ZTNlMWQ2MDMzZGNiNGNkZiIsInJlQXV0aCI6ZmFsc2UsImlhdCI6MTcyMDU4NDQzMiwiZXhwIjoxNzIwNjcwODMyfQ.6aW72dr5iVxv5Zgjoq5jIRjj1I18QahGwv-osVMWuLo&loanId=668e08eca8947c6329bcfe7d&sdkFlag=false&routeType=webview&requestSource=partner]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:11 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:15 IST" duration-ms="3565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://planet.ltfs.com/LTFS-CL/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:15 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:16 IST" duration-ms="1299" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://privo.creditsaison.in?signature=b61446de9cc63665ecbccc756b710a9ea626488e3b105d8342ea25d1f96e6da2&signed_timestamp=1720430828803]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:16 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:17 IST" duration-ms="1304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://app.tbal.io/bMoN/gznwr5bd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method signature="testLinks(java.lang.String)[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:17 IST" name="testLinks" data-provider="linksProvider" finished-at="2024-08-06T14:57:17 IST" duration-ms="159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://dbhshbsdh.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Links_Cred.Credmudra.TESTnew1@5fbe4146]" started-at="2024-08-06T14:57:17 IST" name="tearDown" finished-at="2024-08-06T14:57:23 IST" duration-ms="5873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Links_Cred.Credmudra.TESTnew1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
